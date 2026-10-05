@@ -1,0 +1,23 @@
+{
+  "name": "ferramenta_analitica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruizanalytics/ferramenta_analitica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruizanalytics/ferramenta_analitica/issues"
+  },
+  "homepage": "https://github.com/ruizanalytics/ferramenta_analitica#readme",
+  "dependencies": {
+    "@open-wa/wa-automate": "^5.4.0"
+  }
+}

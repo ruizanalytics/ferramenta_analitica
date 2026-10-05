@@ -1,0 +1,4 @@
+node_modules/
+_IGLOO_*/
+*.data.json
+sessions/
